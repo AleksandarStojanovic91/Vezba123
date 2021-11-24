@@ -78,7 +78,7 @@ public class CucumberSteps extends BaseTest {
         LoginPage loginPage = new LoginPage(driver,wdWait);
         loginPage.enterPassword(data.get("Password"));
     }
-
+// komentar larita
     @And("I take allure screenshot")
     public void iTakeAllureScreenshot() throws IOException {
         reportScreenshot("Test", "TestAllure");
