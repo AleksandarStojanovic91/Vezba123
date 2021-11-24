@@ -8,7 +8,11 @@
 
     <test name="Name">
         <classes>
-            <class name="runners.GeneralRunner"/>
+            <class name="tests.teh.TehnomanijaTests">
+                <methods>
+                    <include name="navigateMenu"/>
+                </methods>
+            </class>
         </classes>
     </test>
 

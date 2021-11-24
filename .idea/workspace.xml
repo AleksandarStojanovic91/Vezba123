@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cc2b270-78e0-4438-925f-4eacc3f96335" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/tehnomanija/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/teh/TehnomanijaTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/teh/TehnomanijaTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,14 +56,14 @@
       <recent name="C:\Users\aleks\OneDrive\Desktop\Vezba123\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pages.tehnomanija" />
       <recent name="tests.teh" />
       <recent name="pages.swaglabs" />
       <recent name="" />
       <recent name="pages.ct" />
-      <recent name="pages" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TehnomanijaTests.navigateMenu">
+  <component name="RunManager" selected="TestNG.C:/Users/aleks/OneDrive/Desktop/Vezba123/Config.xml">
     <configuration name="C:/Users/aleks/OneDrive/Desktop/Vezba123/Config.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Vezba123" />
       <useClassPathOnly />
@@ -102,8 +105,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TehnomanijaTests.navigateMenu" />
         <item itemvalue="TestNG.C:/Users/aleks/OneDrive/Desktop/Vezba123/Config.xml" />
+        <item itemvalue="TestNG.TehnomanijaTests.navigateMenu" />
       </list>
     </recent_temporary>
   </component>
@@ -117,5 +120,16 @@
       <updated>1636791161798</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
