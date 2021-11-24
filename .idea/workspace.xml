@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6cc2b270-78e0-4438-925f-4eacc3f96335" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Vezba123.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vezba123.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/excel_core/ExcelUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/selenium_core/ChromeDriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/selenium_core/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/selenium_core/DriverManagerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/selenium_core/FirefoxDriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver95.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/Login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ct/AccountCreatePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ct/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/swaglabs/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/swaglabs/CheckoutCompletePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/swaglabs/CheckoutStepOnePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/swaglabs/CheckoutStepTwoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/swaglabs/InventoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/swaglabs/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/GeneralRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/CucumberSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ct/CTShopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/swaglabs/SwagLabsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/teh/TehnomanijaTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/testData/TestData.xlsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="20r857rk2BYc5Clk716uieuUdyx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aleks\OneDrive\Desktop\Vezba123\src\test\testData" />
+      <recent name="C:\Users\aleks\OneDrive\Desktop\Vezba123\src\main\java" />
+      <recent name="C:\Users\aleks\OneDrive\Desktop\Vezba123\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tests.teh" />
+      <recent name="pages.swaglabs" />
+      <recent name="" />
+      <recent name="pages.ct" />
+      <recent name="pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TehnomanijaTests.navigateMenu">
+    <configuration name="C:/Users/aleks/OneDrive/Desktop/Vezba123/Config.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Vezba123" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Config.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TehnomanijaTests.navigateMenu" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Vezba123" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.teh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.teh" />
+      <option name="MAIN_CLASS_NAME" value="tests.teh.TehnomanijaTests" />
+      <option name="METHOD_NAME" value="navigateMenu" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TehnomanijaTests.navigateMenu" />
+        <item itemvalue="TestNG.C:/Users/aleks/OneDrive/Desktop/Vezba123/Config.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cc2b270-78e0-4438-925f-4eacc3f96335" name="Default Changelist" comment="" />
+      <created>1636791161798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636791161798</updated>
+    </task>
+    <servers />
+  </component>
+</project>
