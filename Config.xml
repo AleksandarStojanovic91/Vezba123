@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
-<suite name="TestSuite" data-provider-thread-count="1">
+<suite name="TestSuite3" data-provider-thread-count="1">
     <parameter name="BROWSER" value="Chrome"/>
     <parameter name="BROWSER_VERSION" value="95"/>
     <parameter name="WAIT_TIME" value="30"/>
