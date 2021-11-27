@@ -9,7 +9,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import pages.ct.AccountCreatePage;
-import pages.ct.HomePage;
+import pages.tehnomanija.HomePage;
 import tests.BaseTest;
 
 import java.io.IOException;
@@ -26,10 +26,12 @@ public class TehnomanijaTests extends BaseTest {
         driver.get("https://www.tehnomanija.rs/");
         wdWait = new WebDriverWait(driver, 30);
 
-        Actions actions = new Actions(driver);
-        actions.moveToElement(driver.findElement(By.cssSelector(".category-menu"))).moveToElement(driver.findElement(By.xpath("//a[@class='first-level-link' and contains(@href,'bela-tehnika')]"))).build().perform();
-        driver.findElement(By.cssSelector("[title=\"Mini frižideri\"]")).click();
-        Thread.sleep(5000);
+        HomePage homePage = new HomePage(driver, wdWait);
+        homePage.clickSubMenuItem("tv-i-video", "do 32 inča");
+
+        homePage.clickFilter("Aktuelna ponuda", "Ponuda za crni petak");
+
+        homePage.scrollToWebElement(driver.findElements(By.cssSelector(".fa.fa-facebook")).get(1));
     }
 
     @Test
@@ -57,8 +59,8 @@ public class TehnomanijaTests extends BaseTest {
 
     @AfterMethod
     public void tearDown() throws IOException {
-        takeScreenshot("ScreenshotOnTestEnd");
-        quitDriver();
+        //takeScreenshot("ScreenshotOnTestEnd");
+        //quitDriver();
     }
 
 }
