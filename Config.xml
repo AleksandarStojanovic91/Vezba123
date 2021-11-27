@@ -16,6 +16,16 @@
             </class>
         </classes>
     </test>
+    <test name="Name2">
+        <classes>
+            <class name="tests.teh.TehnomanijaTests">
+                <methods>
+                    <include name="navigateMenu"/>
+                    <!--                    <include name="navigateMenu"/>-->
+                </methods>
+            </class>
+        </classes>
+    </test>
     <test name="Name3">
         <classes>
             <class name="tests.teh.TehnomanijaTests">
