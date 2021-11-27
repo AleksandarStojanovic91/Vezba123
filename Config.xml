@@ -11,6 +11,7 @@
             <class name="tests.teh.TehnomanijaTests">
                 <methods>
                     <include name="navigateMenu"/>
+<!--                    <include name="navigateMenu"/>-->
                 </methods>
             </class>
         </classes>
