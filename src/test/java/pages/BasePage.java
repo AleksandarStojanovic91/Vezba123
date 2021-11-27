@@ -50,6 +50,7 @@ public class BasePage {
             }
 
         }
+		//test
 
     }
     public void click(WebElement element){
