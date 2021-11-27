@@ -21,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -55,14 +60,14 @@
       <recent name="C:\Users\aleks\OneDrive\Desktop\Vezba123\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pages.tehnomanija" />
       <recent name="tests.teh" />
       <recent name="pages.swaglabs" />
       <recent name="" />
       <recent name="pages.ct" />
-      <recent name="pages" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TehnomanijaTests.navigateMenu">
+  <component name="RunManager" selected="TestNG.C:/Users/aleks/OneDrive/Desktop/Vezba123/Config.xml">
     <configuration name="C:/Users/aleks/OneDrive/Desktop/Vezba123/Config.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Vezba123" />
       <useClassPathOnly />
@@ -104,8 +109,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TehnomanijaTests.navigateMenu" />
         <item itemvalue="TestNG.C:/Users/aleks/OneDrive/Desktop/Vezba123/Config.xml" />
+        <item itemvalue="TestNG.TehnomanijaTests.navigateMenu" />
       </list>
     </recent_temporary>
   </component>

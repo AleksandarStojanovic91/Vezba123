@@ -59,6 +59,7 @@ public class BasePage {
         wait.until(ExpectedConditions.visibilityOf(element));
         wait.until(ExpectedConditions.elementToBeClickable(element));
         try {
+            //scrollToWebElement(element);
             Actions actions = new Actions(driver);
             actions.moveToElement(element).build().perform();
 
@@ -122,5 +123,9 @@ public class BasePage {
         File file = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
         FileUtils.copyFile(file, new File("src/screenshot/"+fileName+"_"+System.currentTimeMillis()+".png"));
     }
+    public void scrollToWebElement(WebElement element){
+        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true)", element);
+    }
+
 
 }
