@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cc2b270-78e0-4438-925f-4eacc3f96335" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +106,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TehnomanijaTests.navigateMenu" />
+        <item itemvalue="TestNG.C:/Users/aleks/OneDrive/Desktop/Vezba123/Config.xml" />
         <item itemvalue="TestNG.C:/Users/aleks/OneDrive/Desktop/Vezba123/Config.xml" />
         <item itemvalue="TestNG.TehnomanijaTests.navigateMenu" />
       </list>
